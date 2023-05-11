@@ -12,3 +12,15 @@ https://cdn-files.gamejolt.net/O17ei1Sj67c_3O_ETA2hGw==,1683912719/data/games/1/
 All credit goes to Scott Cawthon, the man, the myth, the legend
 
 https://gamejolt.com/@realscawthon
+
+If you're doing a tutorial video on this (Like anyone is anymore ;-;)
+
+Hold the Windows Key and Press R (Win + R) 
+
+In the window that appears, type %appdata% A folder will open
+
+Go to MMFApplications, in the downloaded folder. Copy the file "fnafw1" to the mmfapplications folder
+
+override the existing one if there is one.
+
+Launch the game, enjoy!
